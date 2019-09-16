@@ -1,0 +1,28 @@
+_repo: Aerial-Navigation-A-Popular-Treatise-on-the-Growth-of-Air-Craft-and-on-Aeronautical-Meteorolo__60277
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zahm, Albert Francis
+    birthdate: 1862
+    deathdate: 1954
+    gutenberg_agent_id: '42772'
+    url: http://www.gutenberg.org/2009/agents/42772
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Francis_Zahm
+description: ''
+gutenberg_issued: '2019-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60277'
+  lccn: '11024585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Meteorology'
+- !lcsh 'Aeronautics'
+- GITenberg
+title: "Aërial Navigation\r\nA Popular Treatise on the Growth of Air Craft and on\
+  \ Aëronautical Meteorology"
+url: http://www.gutenberg.org/ebooks/60277
